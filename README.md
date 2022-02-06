@@ -25,7 +25,6 @@ When we created the summary dataframe based on city type we got the following re
 
 We were then asked to take the ride data, convert it into a datetime stamp, and created a line graph based on the weekly total fares based on the city type. (See graph below)
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
 ### Charts and Graphs
 
